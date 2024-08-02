@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 "Bridal/88.jpg", "Bridal/89.jpg", "Bridal/90.jpg",
                 "Bridal/91.jpg", "Bridal/92.jpg", "Bridal/93.jpg",
                 "Bridal/95.jpg", "Bridal/96.jpg", "Bridal/97.jpg", 
-                "Bridal/98.jpg", "Bridal/99.jpg", "Bridal2/100.jpg", 
+                "Bridal/98.jpg",  "Bridal2/100.jpg", 
                 "Bridal2/101.png", "Bridal2/102.jpg", "Bridal2/103.jpg", 
                 "Bridal2/104.jpg", "Bridal2/105.jpg", "Bridal2/106.jpg", 
                 "Bridal2/107.jpg", "Bridal2/108.jpg", "Bridal2/109.jpg", 
